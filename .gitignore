@@ -1,0 +1,17 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+*.db
+*.sqlite3
+*.log
+.idea/
+.vscode/
+.DS_Store
+models/*.joblib
+
+*:Zone.Identifier

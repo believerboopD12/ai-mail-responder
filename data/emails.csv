@@ -1,0 +1,145 @@
+subject,body,intent
+Product information,Can you explain the features included in your standard plan?,inquiry
+Business hours,What time is your support team available on weekends?,inquiry
+Shipping question,How long does delivery usually take?,inquiry
+Account requirements,What documents do I need to create an account?,inquiry
+Compatibility question,Does your application work on Linux computers?,inquiry
+Plan differences,What is the difference between the basic and premium plans?,inquiry
+Data export,Can customers export their account data?,inquiry
+International use,Is the service available outside India?,inquiry
+Cancellation policy,Please explain how subscription cancellation works.,inquiry
+Invoice question,Where can I download my monthly invoices?,inquiry
+Trial duration,How many days does the free trial last?,inquiry
+Team members,How many users can join one workspace?,inquiry
+Cannot sign in,I cannot log in even after resetting my password.,support
+Upload error,The document upload keeps failing with an error.,support
+App crashes,The mobile application closes whenever I open settings.,support
+Password reset,Please help me reset my account password.,support
+Missing email,I am not receiving the verification email.,support
+Sync issue,My changes are not syncing across devices.,support
+Installation help,I need help installing the desktop application.,support
+Dashboard blank,The dashboard loads but shows a blank screen.,support
+Account blocked,My account is blocked and I need access urgently.,support
+Service unavailable,The service is unavailable for our whole team.,support
+Payment failed,My payment fails every time I try to renew.,support
+Integration broken,The calendar integration stopped working today.,support
+Very disappointed,The service has been unreliable and I am unhappy.,complaint
+Poor customer service,I waited several days and nobody answered my request.,complaint
+Incorrect order,You delivered the wrong item and this is unacceptable.,complaint
+Repeated outages,We have experienced three outages this month.,complaint
+Hidden fee,I was charged a fee that was never clearly disclosed.,complaint
+Bad experience,The new update made the product much harder to use.,complaint
+Late delivery,My order arrived a week later than promised.,complaint
+Damaged package,The package arrived damaged and unusable.,complaint
+Unresolved case,Support closed my case without solving the problem.,complaint
+Billing frustration,Your billing system keeps making the same mistake.,complaint
+Quality concern,The product quality is much lower than advertised.,complaint
+Cancel ignored,I asked to cancel but was charged again.,complaint
+Refund status,I returned my order and want to know the refund status.,refund
+Refund not received,I requested a refund last week but have not received the amount yet.,refund
+Duplicate charge,I was charged twice and need the extra payment refunded.,refund
+Cancel and refund,Please cancel my subscription and return the latest payment.,refund
+Wrong amount,The refund amount credited to me is incorrect.,refund
+Return payment,When will the money for my returned item reach my account?,refund
+Trial charge,I was billed after the trial and would like my money back.,refund
+Refund denied,Why was my refund request rejected?,refund
+Card credit,Please confirm when the refund will appear on my card.,refund
+Accidental purchase,I bought the wrong plan by mistake and need a refund.,refund
+Partial refund,I only received part of the promised refund.,refund
+Refund receipt,Can you send confirmation for my completed refund?,refund
+Request a demo,Our company would like to schedule a product demo.,sales
+Enterprise pricing,Please send pricing for a team of one hundred users.,sales
+Purchase licenses,We are interested in buying twenty annual licenses.,sales
+Partnership opportunity,Would your company be open to a sales partnership?,sales
+Volume discount,Do you offer discounts for large orders?,sales
+Talk to sales,Please connect me with someone from your sales team.,sales
+Product brochure,Could you send your latest product brochure?,sales
+Custom plan,We need a quote for a custom enterprise plan.,sales
+Renewal quote,Please provide a quote to renew our business subscription.,sales
+Procurement request,Our procurement team needs a formal proposal.,sales
+Reseller program,I want details about becoming an authorized reseller.,sales
+Demo followup,We enjoyed the demo and want to discuss purchasing.,sales
+You won a prize,Click this link now to claim your free cash reward.,spam
+Limited offer,Buy followers instantly at the lowest price today.,spam
+Crypto investment,Guaranteed returns from this exclusive crypto opportunity.,spam
+Lottery winner,Congratulations send your bank details to collect winnings.,spam
+SEO promotion,We can put your website first on every search engine.,spam
+Cheap medicine,Order discount medicine without a prescription.,spam
+Urgent inheritance,A wealthy stranger selected you to receive an inheritance.,spam
+Work from home,Earn thousands every day with no skills or experience.,spam
+Free gift card,Complete this survey to get a free gift card.,spam
+Casino bonus,Register now and receive a huge casino bonus.,spam
+Marketing blast,Purchase our email list containing millions of contacts.,spam
+Miracle product,This secret product guarantees instant weight loss.,spam
+Feature clarification,I have a question about which features are available in the starter package.,inquiry
+Storage limits,Could you tell me how much storage each subscription includes?,inquiry
+Supported formats,Which file formats can I upload to the platform?,inquiry
+Mobile availability,Is there an Android or iOS version of your application?,inquiry
+Upgrade process,How can an existing customer move to a higher plan?,inquiry
+Payment methods,What payment methods do you currently accept?,inquiry
+Language options,Does the product support languages other than English?,inquiry
+Security information,Can you explain how customer information is protected?,inquiry
+API availability,Do you provide an API for developers to use?,inquiry
+Maximum file size,What is the maximum permitted upload size?,inquiry
+Student plan,Is there a discounted subscription for students?,inquiry
+Ownership question,Who owns files uploaded by a customer?,inquiry
+Login assistance,Please help because my login credentials are not being accepted.,support
+Reset link expired,The password reset link has expired and I still cannot access my account.,support
+Export failure,I need technical support because data export fails at the final step.,support
+Notification problem,Notifications have stopped appearing in the application.,support
+Slow application,The application is extremely slow when opening large projects.,support
+Two factor issue,My authentication code is rejected and I cannot sign in.,support
+Browser error,The dashboard displays an error only in my web browser.,support
+File recovery,I accidentally deleted a document and need help recovering it.,support
+Update problem,The desktop update will not install on my computer.,support
+Connection lost,The application repeatedly loses its network connection.,support
+Invite not working,My teammate cannot accept the workspace invitation.,support
+Audio issue,Uploaded video has no sound during playback.,support
+Unacceptable delay,The repeated service delays are frustrating and unacceptable.,complaint
+Rude response,I am complaining because the support response was dismissive and rude.,complaint
+Broken promise,Your team promised a resolution but never contacted me again.,complaint
+Unexpected downgrade,My account was downgraded without any warning.,complaint
+Frequent defects,The product contains too many bugs for a paid service.,complaint
+Order handling,My order was handled poorly and I am very dissatisfied.,complaint
+Misleading description,The received product does not match its advertised description.,complaint
+No response,I have contacted your company repeatedly but received no useful response.,complaint
+Recurring billing error,I am upset that the same billing error happened again this month.,complaint
+Missing feature,A feature I paid for disappeared after the latest release.,complaint
+Privacy concern,I am unhappy with how my personal information was handled.,complaint
+Delivery complaint,The courier left my expensive order in an unsafe location.,complaint
+Refund overdue,My approved refund is overdue and has still not reached my bank.,refund
+Money back request,I want my money back because the item did not work.,refund
+Refund reference,Please provide the transaction reference for my refund.,refund
+Returned subscription charge,I cancelled on time and request a refund for the subscription charge.,refund
+Refund processing time,How many business days will processing my refund take?,refund
+Damaged item refund,The delivered item was broken so please refund the purchase.,refund
+Unauthorized renewal refund,I did not approve this renewal and want the charge refunded.,refund
+Deposit return,When will my refundable deposit be returned?,refund
+Refund to original card,Please send the refund back to my original payment method.,refund
+Missing refund balance,My statement does not show the promised refund credit.,refund
+Event cancellation refund,The event was cancelled and I need reimbursement for my ticket.,refund
+Refund escalation,Please escalate my unresolved request to return the payment.,refund
+Sales consultation,Our business wants to speak with a sales representative about purchasing.,sales
+Pricing proposal,Please prepare a commercial pricing proposal for our department.,sales
+Annual contract,We are evaluating an annual contract for fifty employees.,sales
+Bulk purchase,Can your sales team quote a bulk purchase of devices?,sales
+Corporate demo,Please arrange a product demonstration for our leadership team.,sales
+Plan quotation,Send us a quotation for the professional subscription.,sales
+Vendor evaluation,Our company is considering your platform as a new vendor.,sales
+License expansion,We want to purchase additional seats for our growing team.,sales
+Enterprise discussion,Could an account executive discuss enterprise features and pricing?,sales
+Procurement documents,Sales should send the documents required for procurement approval.,sales
+Upgrade quote,We need a price quote to upgrade all company accounts.,sales
+Buying decision,Our team is ready to buy and needs the next sales steps.,sales
+Instant riches,Earn guaranteed money overnight by joining this exclusive scheme.,spam
+Suspicious account notice,Verify your password through this unknown link or lose access today.,spam
+Unwanted promotion,Buy our unrelated advertising package with a special limited discount.,spam
+Fake bank alert,Send your card number immediately to prevent account suspension.,spam
+Mass mailing,Purchase thousands of verified customer email addresses now.,spam
+Prize notification,You were randomly selected for a valuable international prize.,spam
+Risk free profit,Invest today for guaranteed profit with absolutely no financial risk.,spam
+Unsolicited loan,Get an instant loan without documents credit checks or verification.,spam
+Referral income,Forward this message to ten people to receive free money.,spam
+Exclusive pills,Order miracle health pills at an unbelievable discount.,spam
+Claim voucher,Open this suspicious attachment to claim your reward voucher.,spam
+Online betting,Join our betting site today and collect a free welcome jackpot.,spam
